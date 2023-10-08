@@ -2,9 +2,9 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="margin_regular">16dp</dimen>
     <dimen name="margin_regularplus">36dp</dimen>
-    <dimen name="margin_large">100dp</dimen>
+    <dimen name="margin_large">76dp</dimen>
     <dimen name="margin_wide">16dp</dimen>
-    <dimen name="text_heading">14sp</dimen>
+    <dimen name="text_heading">30sp</dimen>
     <dimen name="activity_horizontal_margin" />
     <dimen name="activity_vertical_margin" />
 </resources>
