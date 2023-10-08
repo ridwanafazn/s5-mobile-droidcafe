@@ -3,7 +3,6 @@ NIM : 1217050121\
 Kelas : Praktikum Pengembangan Aplikasi Mobile B
 
 ## Dokumentasi
-## Tampilan App
 ### Main Activity
 <img src="./app/image/1.png" alt="ss main activity" width="300" height="auto">
 
