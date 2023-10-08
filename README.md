@@ -1,6 +1,6 @@
 Nama : Ridwan Ahmad Fauzan\
 NIM : 1217050121\
-Kelas : IF C
+Kelas : Praktikum Pengembangan Aplikasi Mobile B
 
 ## Dokumentasi
 ## Tampilan App
